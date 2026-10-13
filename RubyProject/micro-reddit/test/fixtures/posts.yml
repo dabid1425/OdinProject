@@ -1,0 +1,9 @@
+first_post:
+  user: alice
+  title: Hello World
+  body: This is the body of the first post.
+
+second_post:
+  user: bob
+  title: Another Post
+  body: Body text for the second post here.

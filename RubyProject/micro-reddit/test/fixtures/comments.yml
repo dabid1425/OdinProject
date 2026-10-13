@@ -1,0 +1,10 @@
+top_comment:
+  user: alice
+  post: first_post
+  body: This is a top-level comment on the post.
+
+reply_comment:
+  user: bob
+  post: first_post
+  parent: top_comment
+  body: This is a reply to the top comment.

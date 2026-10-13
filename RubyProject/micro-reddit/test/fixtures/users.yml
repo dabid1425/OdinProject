@@ -1,0 +1,7 @@
+alice:
+  username: alice
+  email: alice@example.com
+
+bob:
+  username: bob_the_builder
+  email: bob@example.com
